@@ -30,5 +30,8 @@ Using structural approaches:
 1. Cobb-Douglas production functions: includes estimates of NAIRU using splines, and trend-cycle decomposition of unemployment series. Also includes Kalman Filter for capaicty utilization series to obatin NAICU.
 2. Kalman filter using "dse" and "DLM" libraries. State-space equation include output gap, core inflation, real exchange rate depreciation, real monetary policy rate.
 
+# Time_desaggregation_time_series:
+Part of the pre-processing of data before estimates. It uses library "tempdisagg" on annual data to transform to quarterly data for several variables, including World Bank indexes, Gini index, world gdp, among others. 
+
 # 
 
