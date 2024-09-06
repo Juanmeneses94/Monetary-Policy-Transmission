@@ -1,5 +1,5 @@
 # Monetary-Policy-Transmission
-R codes and csv/xlsx databases that support econometric/statistical methdologies used in the research paper: "Index of Conditions of Monetary Policy Transmission in Colombia"
+R codes and xlsx database for econometric/statistical modelling used in the research paper: "Index of Conditions of Monetary Policy Transmission in Colombia"
 Ms Economics. Univerisdad de los Andes.
 June 2021
 Author: Juan Camilo Meneses
